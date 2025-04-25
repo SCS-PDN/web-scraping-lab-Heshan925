@@ -3,7 +3,7 @@
 <web-app>
 	<servlet>
 		<servlet-name>servlet_1</servlet-name>
-		<servlet-class>lk.pdn.scs.ScrapeServlet</servlet-class>
+		<servlet-class>lk.pdn.scs.ScraperServlet</servlet-class>
 	</servlet>
 	
 	<servlet-mapping>
